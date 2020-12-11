@@ -1,0 +1,34 @@
+ABOUT:
+
+The coronavirus pandemic saw the number of interviews taken over a video call rise by a mammoth 400%. Industry experts predict that this figure will only grow from hereon as many companies shift their operations to remote and the number of work-from-home jobs increases.
+
+While many companies have fine processes in place to hire employees using in-office interviews, a virtual interview introduces a couple of challenges. Firstly, it makes it hard for HR to evaluate the soft skills of the candidate over a video call. Then there is also the challenge of making sure the candidate doesn't cheat during the interview.
+
+In spite of all these challenges, the millions of remote job seekers also present an opportunity for HR to find the ideal employee, but how can the HR go through millions of applicants? Is that even possible?
+
+Yeah! That's where 1000Interviews comes in. As the name suggests, 1000Interviews lets the HR conduct thousands of interviews at the same time. 
+
+
+HOW IT WORKS:
+
+Every candidate is presented with a set of 8 different questions. While the candidate answers the questions, our A.I technologies of computer vision and natural language processing grade the candidate for their confidence, and body language, and ensure that the candidate doesn't cheat.
+
+The top candidates are then shared with the HR who can further interview them using our in-built audio and video calling features. And for the candidates, we have HR Mary. She is the Siri of our platform keeping the candidates up to date with their application status and interview timings.
+
+We were able to get 1000Interviews off the ground through the services of auth0 and AWS. auth0's authentication service saved us the effort to write a login system from scratch and AWS' Sumerian and Sage Maker platform help us build the initial models of our A.I. A demo of 1000Interviews has been deployed on AWS with the help of Elastic Beanstalk and CloudFront. 
+
+
+TECH STACK:
+
+HTML5, CSS3, Node.js, MongoDB, JavaScript, ExpressJS
+
+
+HOW TO USE IT:
+
+Follow the steps outlined below:
+
+1. Clone the repository locally.
+2. Install Node.js from https://nodejs.org/en/download/
+3. Install Node Package Manager
+4. Run the given webpage files
+5. For making modification to the HTML, CSS, JS and A.I files, use the assets folder
